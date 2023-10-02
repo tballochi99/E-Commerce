@@ -1,4 +1,4 @@
-Projet Ecommerce IT en Next.js et Symfony
+<h1>Projet Ecommerce IT en Next.js et Symfony</h1>
 
 Projet de développement d'une plateforme e-commerce complète spécialisée dans la vente de produits IT. Cette application combine les frameworks Next.js pour la partie front-end et Symfony pour la gestion du back-end.
 
@@ -15,6 +15,6 @@ Projet de développement d'une plateforme e-commerce complète spécialisée dan
 
 Pour déployer et utiliser le site e-commerce IT :
 
-Clonez le dépôt : git clone git@github.com:tballochi99/E-Commerce.git
-Accédez au répertoire du projet : cd E-Commerce
+Clonez le dépôt : git clone git@github.com:tballochi99/E-Commerce.git </br>
+Accédez au répertoire du projet : cd E-Commerce </br>
 Installez les dépendances : npm install pour le front-end (Next.js) et configurez Symfony pour le back-end.
