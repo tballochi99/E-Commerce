@@ -15,7 +15,7 @@ Projet de développement d'une plateforme e-commerce complète spécialisée dan
 
 Pour déployer et utiliser le site e-commerce IT :
 
-1. Clonez le dépôt : `git clone git@github.com:tballochi99/E-Commerce.git`
+1. Clonez le dépôt : `git clone [git@github.com:tballochi99/E-Commerce.git]`
 2. Accédez au répertoire du projet : `cd e-commerce`
 3. Installez les dépendances : `npm install` pour le front-end (Next.js) et configurez Symfony pour le back-end.
 
