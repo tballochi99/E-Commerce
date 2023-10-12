@@ -1,4 +1,4 @@
-# Projet Ecommerce IT en Next.js et Symfony
+# Projet Ecommerce IT en React.js et Symfony
 
 Projet de développement d'une plateforme e-commerce complète spécialisée dans la vente de produits IT. Cette application combine les frameworks Next.js pour la partie front-end et Symfony pour la gestion du back-end.
 
